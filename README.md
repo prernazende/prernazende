@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prerna Zende</h1>
+<h1 align="center">Hi 👋 I'm Prerna Zende</h1>
 <h3 align="center">Aspiring AI Solution Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Cozy%20Coding%20Dreams%20Workspace%281%29.png">
