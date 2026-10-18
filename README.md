@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prernazende0609@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mQ5fD-A6mheZJDcchH84r8Ss5hPTi0Yf/view?usp=sharing](https://drive.google.com/file/d/1mQ5fD-A6mheZJDcchH84r8Ss5hPTi0Yf/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1GCvQx5TpWlf5GMM8zklHuj2cZHCDNqfs/view?usp=sharing
 
 - ⚡ Fun fact **I enjoy turning technical ideas into practical AI solutions**
 
