@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Prerna Zende</h1>
 <h3 align="center">Aspiring AI Solution Engineer</h3>
 
-<img align="right" alt="Prerna's Cozy Coding Workspace" width="400" src="./Cozy%20Coding%20Dreams%20Workspace%20(2).png">
+<img align="right" alt="Prerna's Cozy Coding Workspace" width="350" src="https://github.com/prernazende/prernazende/blob/main/Cozy%20Coding%20Dreams%20Workspace.png">
 - 🔭 I’m currently working on [AI-powered projects and GenAI prototypes](https://github.com/prernazende)
 
 - 🌱 I’m currently learning **LLM Applications, REST API Integration, LangChain, and RAG-based AI Solutions**
