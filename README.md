@@ -1,3 +1,4 @@
+![logo](https://github.com/prernazende/prernazende/blob/main/Prerna%20Zende%E2%80%99s%20Neon%20Study%20Desk.png)
 <h1 align="center">Hi 👋 I'm Prerna Zende</h1>
 <h3 align="center">Aspiring AI Solution Engineer</h3>
 
